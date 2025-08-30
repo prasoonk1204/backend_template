@@ -1,0 +1,1 @@
+Defines the data schemas/structures (often database models)

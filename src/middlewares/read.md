@@ -1,0 +1,1 @@
+Holds functions that intercept requests/responses to add extra processing (e.g., auth, logging)
