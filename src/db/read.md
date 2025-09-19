@@ -1,1 +1,0 @@
-Handles database connection and configuration
